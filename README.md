@@ -12,6 +12,12 @@ This project demonstrates modern HTML structure and responsive CSS styling using
 
 ---
 
+## 📸 Screenshot
+
+<img src="./images/project-screenshot.png" alt="WeBarelyWork landing page screenshot" width="700" />
+
+---
+
 ## 🛠️ Built With
 
 - **HTML5**
