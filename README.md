@@ -6,6 +6,12 @@ This project demonstrates modern HTML structure and responsive CSS styling using
 
 ---
 
+## 🚀 Live Preview
+
+[View the deployed site here](https://golden-coworking-space.netlify.app/)
+
+---
+
 ## 🛠️ Built With
 
 - **HTML5**
